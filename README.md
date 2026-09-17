@@ -25,7 +25,7 @@ The repository currently covers:
 |---|---|---|
 | RNN with Attention for Machine Translation | Implements an encoder-decoder RNN with an attention mechanism for machine translation. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HsiaoEn/ai-engineering-labs/blob/main/modeling/rnn-attention-translation/seq2seq_translation.ipynb) |
 | BERT Emotion Classification | Fine-tunes BERT on the EmpatheticDialogues dataset for emotion classification. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HsiaoEn/ai-engineering-labs/blob/main/modeling/bert-emotion-classification/BERT_Text_Classification.ipynb) |
-| GPT-2 Text Summarization | Fine-tunes GPT-2 to generate summaries from article text. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HsiaoEn/ai-engineering-labs/blob/main/modeling/gpt2-summarization/summary_fine-tune_gpt2.ipynb) |
+| GPT-2 Text Summarization | Fine-tunes GPT-2 to generate summaries from article text. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HsiaoEn/ai-engineering-labs/blob/main/modeling/gpt2-summarization/summary_fine_tune_gpt2.ipynb) |
 | Whisper LoRA Fine-tuning | Applies parameter-efficient fine-tuning to Whisper using LoRA. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HsiaoEn/ai-engineering-labs/blob/main/modeling/whisper-lora/whisper_lora.ipynb) |
 
 ### Structured Output & Tool Use
